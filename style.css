@@ -17,3 +17,8 @@ a   {
 h1  {
     color: wheat;
 }
+
+.header h1  {
+    text-decoration: underline;
+    font-weight: bold;
+}
